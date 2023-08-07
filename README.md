@@ -3,11 +3,11 @@
  
 ### What is sustainable design, why is it so important, and how do we encourage others to pursue it?
 
-![QR Code](https://github.com/MyNatureOuting/sustainability)
+![QR Code](https://github.com/MyNatureOuting/sustainable-design/blob/main/qrcode.png)
 
-### https://bit.ly/<p>&nbsp;</p>
+### https://bit.ly/3DJLcPx <p>&nbsp;</p>
 
-[Google Slides Link](https://docs.google.com/presentation/d/1fQceMx1WvULTcqVVRu5e5k0a1cMx3p4mRq_LDntJZFE/edit#slide=id.ge680b2a23b_0_12)
+[Google Slides Link](https://docs.google.com/presentation/d/1fQceMx1WvULTcqVVRu5e5k0a1cMx3p4mRq_LDntJZFE/edit?usp=sharing)
 
 
 Nature studies offer Finnish students time to engage with nature and to learn about their own environmental impact. Finnish schools adopt a transdisciplinary approach to understanding environmental education, which contrasts with the U.S. approaches, where environmental education is almost solely taught during science courses and touched on only briefly through earth science standards. By un-disciplining environmental education, Finnish citizens have some of the most advanced content knowledge as it relates to climate change, and their policies, cultural practices, and aesthetics reflect that knowledge.
