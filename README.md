@@ -46,6 +46,7 @@ Learn more about our Nature Study project: [HERE](https://sjquigley.github.io/mu
 
 9.	This will provide you with a published GitHub URL.
 
+
 10.	Test the URL in a browser. Magic, no? Actually, it's computer science.
 
 11. [Share Out](https://docs.google.com/forms/d/e/1FAIpQLSdRW9k4l2kyjfKcyVplOtmLul2jltW6PDf1zhpcz7IS5Xur7w/viewform?usp=sf_link)<p>&nbsp;</p>
@@ -57,7 +58,7 @@ Learn more about our Nature Study project: [HERE](https://sjquigley.github.io/mu
 You have a range of code editor options depending on your operating system, but we recommend [Phoenix Code](https://phcode.dev) because it works across all operating systems, it comes with HTML preview already installed, and it's free and open-source
 
 
-###Phoenix Code (Download or use Online)
+### Phoenix Code (Download or use Online)
 [See Video Tutorial]()
 
 1. Go to [Phoenix Code](https://phcode.dev). 
